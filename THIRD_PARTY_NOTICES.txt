@@ -1,0 +1,2 @@
+Manrope font: SIL Open Font License 1.1. Full notice: Manrope-OFL.txt and embedded HTML comment.
+React and React DOM: MIT. Three.js: MIT. Lucide: ISC. Vite and build tools: see package license files.
